@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ToDoList.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connectDBPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">...\local_data\db_local.mdf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
